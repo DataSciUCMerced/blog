@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://github.com/DataSciUCMerced/blog"
 [[menu.main]]
     name = "Main Page"
-    url = "https://datasciucmerced.github.io/"
+    url = "https://datasciucmerced.github.io/blog"
 
 [params]
     description = "A website built through Hugo and blogdown."
